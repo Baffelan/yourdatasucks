@@ -1,12 +1,12 @@
-name: Your Blog
-tagline: Things you talk about
-url: https://YOURUSER.github.io/blog
+name: Your Data Sucks
+tagline: You know, we know, your data sucks. We can make it better.
+url: https://baffelan.github.io/blog
 menu:
   - ["About", "about.html"]
   - ["Pages", "pages.html"]
   - ["Tags", "tags.html"]
-  - ["Follow me", "https://mastodon.social/@YOURUSER"]
-  - ["Github", "https://github.com/rochacbruno/marmite"]
+  - ["Follow me", "https://hachyderm.io/@gvdr"]
+  - ["Github", "https://github.com/Baffelan/yourdatasucks"]
 
 
 # More options available to customize the website
