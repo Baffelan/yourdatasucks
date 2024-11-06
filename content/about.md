@@ -1,7 +1,7 @@
-# About you
+# Us
 
-Talk about you!
+We are Baffelan.
 
-Use all markdown 
+We are good with data, and with people.
 
-read more on https://rochacbruno.github.io/marmite/markdown-format.html
+More about us at www.baffelan.com
