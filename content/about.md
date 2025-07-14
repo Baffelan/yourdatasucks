@@ -10,7 +10,7 @@ We are good with data, and with people.
 
 is an expert AIops with a taste for Irish music. 
 
-The worst data he has seen is
+The worst data he has seen was unfortunately mine. Working with predictive neural networks for my master's, I had layered so many abstractions and bad names on my training and test data, that I did realise the time steps were out of sync. I spent months trying to figure out why I had good training results but absolutely terrible test results.
 
 ### Giulio
 
