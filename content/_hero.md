@@ -1,4 +1,4 @@
-# Your data sucks
+# Everyone's Data Sucks
 
 You know it, we know it: the data you get to work with everyday is terrible.
 
